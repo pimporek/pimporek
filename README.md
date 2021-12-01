@@ -1,3 +1,18 @@
+🌱 I’m currently learning python
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - 👋 Hi, I’m @pimporek
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
